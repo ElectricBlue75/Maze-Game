@@ -1,4 +1,4 @@
-# Maze-Game
+# Escape From SFU
 A maze game with the goal of collecting all the required credits in order to graduate from SFU based on Java
 
 ## So how do I play
