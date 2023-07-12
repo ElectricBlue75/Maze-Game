@@ -15,5 +15,5 @@ Barry Liu (Game Logic/Controller)
 
 Minh Tien Diep (Model)
 
-Nam Son Nguyen (UI)
+Nam Son Nguyen (UI/Game Sprite)
 
